@@ -1,4 +1,4 @@
-guosl.top[http://www.guosl.top]
+[guosl.top](http://www.guosl.top)
 
 my personal website powered by Vite
 
