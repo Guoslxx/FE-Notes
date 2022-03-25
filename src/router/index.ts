@@ -3,7 +3,15 @@ import { createRouter, createWebHistory, RouteRecordRaw } from 'vue-router'
 const routes: RouteRecordRaw[] = [
     {
         path: '/',
-        component: () => import('@/components/HelloWorld.vue')
+        redirect: '/blog',
+    },
+    {
+        path: '/blog',
+        component: () => import('@/views/posts/posts.vue'),
+    },
+    {
+        path: '/post/:postId',
+        component: () => import('@/views/posts/postDetail.vue'),
     }
 ]
 
