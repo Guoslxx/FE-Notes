@@ -30,3 +30,5 @@ yarn-error.log*
 # vuepress temp file
 .temp
 .cache
+
+docs/.vuepress/dist
