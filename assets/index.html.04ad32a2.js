@@ -1,0 +1,1 @@
+const e={key:"v-06318fec",path:"/js-basic/",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1649292997e3,contributors:[{name:"guoslxx",email:"mr.guosl@qq.com",commits:1}]},filePathRelative:"js-basic/README.md"};export{e as data};
