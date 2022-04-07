@@ -6,7 +6,7 @@ export default defineUserConfig<DefaultThemeOptions>({
   lang: "en-US",
   title: "FE Notes",
   description: "Just playing around",
-
+  base:'/FE-NOTES/',
   // 主题和它的配置
   theme: "@vuepress/theme-default",
   themeConfig: {
